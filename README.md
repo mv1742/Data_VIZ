@@ -14,11 +14,11 @@
 
 ![Image](Q1.png)
 
-# Q3
-[link](https://sunoryavuz.carto.com/builder/03ddfd80-20ca-43b5-bf58-2a5a07474c73/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B40.75401921961654%2C-74.1214942932129%5D%2C%22sw%22%3A%5B40.8556302081258%2C-73.88666152954103%5D%2C%22center%22%3A%5B40.80484416042519%2C-74.00407791137697%5D%2C%22zoom%22%3A13%7D%7D)
+# Q2
+[link](https://sunoryavuz.carto.com/builder/7ee4c4c1-7575-48eb-a9c5-50950fb9c0c2/embed)
 
 # Q5
-[link](https://sunoryavuz.carto.com/builder/7ee4c4c1-7575-48eb-a9c5-50950fb9c0c2/embed)
+[link](https://sunoryavuz.carto.com/builder/03ddfd80-20ca-43b5-bf58-2a5a07474c73/embed)
 
 # Q6
 ![Image](Q6.png)
