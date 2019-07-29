@@ -1,6 +1,9 @@
-# Data_VIZ
+# Data_Visualization Final Challenge
 
 # Ride Share Analysis
+
+## Manrique Vargas mv1742@nyu.edu
+## Yavuz Sunor ysXXXX@nyu.edu
 
 1. [Q1](README.md#Q1)
 1. [Q6](README.md#Q6)
