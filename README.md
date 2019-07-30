@@ -18,8 +18,8 @@ For the first question, we've worked on the requests dataset. We did the necessa
 
 # Q2
 
-![Image](not_served.png =250x250)
-![Image](sql.png =250x250)
+![Image](not_served.png){:height="50%" width="50%"}
+![Image](sql.png){:height="50%" width="50%"}
 
 [link](https://sunoryavuz.carto.com/builder/7ee4c4c1-7575-48eb-a9c5-50950fb9c0c2/embed)
 
@@ -34,5 +34,5 @@ For the second question, we also used the requests dataset but this time we merg
 For the fifth question, we used vehicle_paths dataset. Using Jupyter Notebook, we filtered the data for the number of passengers below and equal 4 and created a geometry column out of Latitude and Longitudes. Then we browsed the dataframe to CartoDB as in the question 2. We applied a very similar SQL query and were able to visualize vehicles in terms of passenger numbers and time of the day. Because the maximum time limited up to 2pm for number of passengers below 4, we can only see a temporal pattern between 5am and 2pm. As you can see, both in terms of passenger numbers and time of the day, the city shows a uniform distribution.  
 
 # Q6
-![Image](Q6.png)
+![Image](./Plot/Q6.png)
 You may see the Carto map in this [link](https://manriqvq.carto.com/builder/7da12f68-0d62-482a-88a2-446ba4c6903a/embed)
