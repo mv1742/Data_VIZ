@@ -18,6 +18,9 @@ For the first question, we've worked on the requests dataset. We did the necessa
 
 # Q2
 
+<img src="Image" data-canonical-src="not_served.png" width="200" height="400" />
+<img src="Image" data-canonical-src="sql.png" width="200" height="400" />
+
 ![Image](not_served.png){:height="50%" width="50%"}
 ![Image](sql.png){:height="50%" width="50%"}
 
