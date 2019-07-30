@@ -18,11 +18,8 @@ For the first question, we've worked on the requests dataset. We did the necessa
 
 # Q2
 
-<img src="Image" data-canonical-src="not_served.png" width="200" height="400" />
-<img src="Image" data-canonical-src="sql.png" width="200" height="400" />
-
-![Image](not_served.png){:height="50%" width="50%"}
-![Image](sql.png){:height="50%" width="50%"}
+<img src="Image" data-canonical-src="https://github.com/mv1742/Data_VIZ/blob/master/not_served.png" width="200" height="200" />
+<img src="Image" data-canonical-src="https://github.com/mv1742/Data_VIZ/blob/master/not_served.png" width="200" height="200" />
 
 [link](https://sunoryavuz.carto.com/builder/7ee4c4c1-7575-48eb-a9c5-50950fb9c0c2/embed)
 
