@@ -18,8 +18,8 @@ For the first question, we've worked on the requests dataset. We did the necessa
 
 # Q2
 
-![Image](not_served.png)
-![Image](sql.png)
+![Image](not_served.png =250x250)
+![Image](sql.png =250x250)
 
 [link](https://sunoryavuz.carto.com/builder/7ee4c4c1-7575-48eb-a9c5-50950fb9c0c2/embed)
 
