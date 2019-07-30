@@ -18,8 +18,8 @@ For the first question, we've worked on the requests dataset. We did the necessa
 
 # Q2
 
-<img src="Image" data-canonical-src="https://raw.githubusercontent.com/mv1742/Data_VIZ/master/not_served.png" width="200" height="200" />
-<img src="Image" data-canonical-src="https://raw.githubusercontent.com/mv1742/Data_VIZ/master/sql.png" width="200" height="200" />
+<img src="https://raw.githubusercontent.com/mv1742/Data_VIZ/master/not_served.png" data-canonical-src="https://raw.githubusercontent.com/mv1742/Data_VIZ/master/not_served.png" width="200" height="200" />
+<img src="https://raw.githubusercontent.com/mv1742/Data_VIZ/master/sql.png" data-canonical-src="https://raw.githubusercontent.com/mv1742/Data_VIZ/master/sql.png" width="200" height="200" />
 
 [link](https://sunoryavuz.carto.com/builder/7ee4c4c1-7575-48eb-a9c5-50950fb9c0c2/embed)
 
