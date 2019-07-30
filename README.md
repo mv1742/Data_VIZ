@@ -27,7 +27,7 @@ For the second question, we also used the requests dataset but this time we merg
 
 # Q5
 
-![Image](vehicle_utilized.png)
+<img src="https://raw.githubusercontent.com/mv1742/Data_VIZ/master/vehicle_utilized.png" data-canonical-src="https://raw.githubusercontent.com/mv1742/Data_VIZ/master/vehicle_utilized.png" width="550" height="400" />
 
 [link](https://sunoryavuz.carto.com/builder/03ddfd80-20ca-43b5-bf58-2a5a07474c73/embed)
 
