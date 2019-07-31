@@ -48,11 +48,14 @@ For the fifth question, we used vehicle_paths dataset. Using Jupyter Notebook, w
 
 - Jupyter Notebook [here](./Notebooks/Final_Challenge.ipynb)
 
-For the sixth question, we calculated the speed of every vehicle. We used pandas to analyze each vehicle individually. To increase the speed of our algorithm, we took subsamples every 5 records. Distance divided by time yields the speed. The plot shows the speeds that are 4.5 standard deviations below the mean speed. This included not only vehicles with a speed of zero (not moving at all), but also we observe some vehicles with very low speed. This approach allows us to account for uncertainty errors in the system that was used to record the location. In many cases, the vehicle might not be moving but the signal fluctuates slightly by a few meters, which causes the speed to be larger than zeros. These cases would be smaller than the criterion used (4.5 standard devations below the mean speed).
+For the sixth question, we calculated the speed of every vehicle. We used pandas to analyze each vehicle individually. To increase the speed of our algorithm, we took subsamples every 5 records. Distance divided by time yields the speed. The plot shows the speeds that are 4.5 standard deviations below the mean speed. This included not only vehicles with a speed of zero (not moving at all), but also we observe some vehicles with very low speed. This approach allows us to account for uncertainty errors in the system that was used to record the location. 4.5 standard devations below the mean speed accounts for many cases where the vehicle might not be moving but the signal fluctuates slightly by a few meters causing the speed to be larger than zeros. We also provide a GIF to better visualize the temporal change per hour and the spatial change using the maps.
 
 # Q8
 
 ![Image](./Plots/Q8.png)
 ![Image](./Plots/q8.gif)
+
+The most important information are the paths and the pickups and drop offs. This map allows us to visualize them all. Some points are also shown which are not close to the path trajectory of the vehicle. It might be possible that these points were failed requests.
+We also provide a GIF to better visualize the temporal change per hour and the spatial change using the maps.
 
 - Jupyter Notebook [here](./Notebooks/Final_Challenge.ipynb)
