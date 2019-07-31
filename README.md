@@ -5,10 +5,16 @@
 ## Manrique Vargas mv1742@nyu.edu
 ## Yavuz Sunor ys3226@nyu.edu
 
+1. [Summary](README.md#Summary)
 1. [Q1](README.md#Q1)
 1. [Q2](README.md#Q2)
 1. [Q5](README.md#Q5)
 1. [Q6](README.md#Q6)
+1. [Q8](README.md#Q8)
+
+# Summary
+
+We used a combination of matplotlib and geopandas for data processing. Then we visualized the maps using Carto. We considered this approach the most cost-effective solution.
 
 # Q1
 
@@ -43,3 +49,12 @@ For the fifth question, we used vehicle_paths dataset. Using Jupyter Notebook, w
 - Jupyter Notebook [here](./Notebooks/Final_Challenge.ipynb)
 
 For the sixth question, we calculated the speed of every vehicle. We used pandas to analyze each vehicle individually. To increase the speed of our algorithm, we took subsamples every 5 records. Distance divided by time yields the speed. The plot shows the speeds that are 4.5 standard deviations below the mean speed. This included not only vehicles with a speed of zero (not moving at all), but also we observe some vehicles with very low speed. This approach allows us to account for uncertainty errors in the system that was used to record the location. In many cases, the vehicle might not be moving but the signal fluctuates slightly by a few meters, which causes the speed to be larger than zeros. These cases would be smaller than the criterion used (4.5 standard devations below the mean speed).
+
+# Q8
+
+![Image](./Plots/Q8.png)
+![Image](./Plots/q8.gif)
+
+- Carto map [link](https://manriqvq.carto.com/builder/7da12f68-0d62-482a-88a2-446ba4c6903a/embed)
+
+- Jupyter Notebook [here](./Notebooks/Final_Challenge.ipynb)
