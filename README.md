@@ -55,6 +55,4 @@ For the sixth question, we calculated the speed of every vehicle. We used pandas
 ![Image](./Plots/Q8.png)
 ![Image](./Plots/q8.gif)
 
-- Carto map [link](https://manriqvq.carto.com/builder/7da12f68-0d62-482a-88a2-446ba4c6903a/embed)
-
 - Jupyter Notebook [here](./Notebooks/Final_Challenge.ipynb)
