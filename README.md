@@ -37,6 +37,7 @@ For the fifth question, we used vehicle_paths dataset. Using Jupyter Notebook, w
 
 ![Image](./Plots/Q6.png)
 ![Image](./Plots/q6.gif)
+
 You may see the Carto map in this [link](https://manriqvq.carto.com/builder/7da12f68-0d62-482a-88a2-446ba4c6903a/embed)
 You may see the Jupyter Notebook [here](./Notebooks/Final_Challenge.ipynb)
 
